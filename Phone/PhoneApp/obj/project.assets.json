@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\PhoneApp\\Phone\\PhoneApp\\PhoneApp.csproj",
+      "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\PROJELERİM\\PhoneApp\\Phone\\PhoneApp\\PhoneApp.csproj",
       "projectName": "PhoneApp",
-      "projectPath": "C:\\Users\\bkesk\\Desktop\\PhoneApp\\Phone\\PhoneApp\\PhoneApp.csproj",
+      "projectPath": "C:\\Users\\bkesk\\Desktop\\PROJELERİM\\PhoneApp\\Phone\\PhoneApp\\PhoneApp.csproj",
       "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bkesk\\Desktop\\PhoneApp\\Phone\\PhoneApp\\obj\\",
+      "outputPath": "C:\\Users\\bkesk\\Desktop\\PROJELERİM\\PhoneApp\\Phone\\PhoneApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bkesk\\AppData\\Roaming\\NuGet\\NuGet.Config",

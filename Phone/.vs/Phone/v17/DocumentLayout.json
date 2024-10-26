@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bkesk\\Desktop\\PhoneApp\\Phone\\",
+  "WorkspaceRootPath": "C:\\Users\\bkesk\\Desktop\\PROJELER\u0130M\\PhoneApp\\Phone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{504E63B5-38E4-4C80-84C4-CD7321F85DF5}|PhoneApp\\PhoneApp.csproj|c:\\users\\bkesk\\desktop\\phoneapp\\phone\\phoneapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{504E63B5-38E4-4C80-84C4-CD7321F85DF5}|PhoneApp\\PhoneApp.csproj|c:\\users\\bkesk\\desktop\\projeler\u0130m\\phoneapp\\phone\\phoneapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{504E63B5-38E4-4C80-84C4-CD7321F85DF5}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{504E63B5-38E4-4C80-84C4-CD7321F85DF5}|PhoneApp\\PhoneApp.csproj|c:\\users\\bkesk\\desktop\\phoneapp\\phone\\phoneapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{504E63B5-38E4-4C80-84C4-CD7321F85DF5}|PhoneApp\\PhoneApp.csproj|c:\\users\\bkesk\\desktop\\projeler\u0130m\\phoneapp\\phone\\phoneapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{504E63B5-38E4-4C80-84C4-CD7321F85DF5}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E63B5-38E4-4C80-84C4-CD7321F85DF5}|PhoneApp\\PhoneApp.csproj|c:\\users\\bkesk\\desktop\\projeler\u0130m\\phoneapp\\phone\\phoneapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{504E63B5-38E4-4C80-84C4-CD7321F85DF5}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{504E63B5-38E4-4C80-84C4-CD7321F85DF5}|PhoneApp\\PhoneApp.csproj|c:\\users\\bkesk\\desktop\\phoneapp\\phone\\phoneapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{504E63B5-38E4-4C80-84C4-CD7321F85DF5}|PhoneApp\\PhoneApp.csproj|c:\\users\\bkesk\\desktop\\projeler\u0130m\\phoneapp\\phone\\phoneapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{504E63B5-38E4-4C80-84C4-CD7321F85DF5}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,15 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\PROJELER\u0130M\\PhoneApp\\Phone\\PhoneApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PhoneApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\PROJELER\u0130M\\PhoneApp\\Phone\\PhoneApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PhoneApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T12:14:56.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\PhoneApp\\Phone\\PhoneApp\\Models\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\PROJELER\u0130M\\PhoneApp\\Phone\\PhoneApp\\Models\\Repository.cs",
               "RelativeDocumentMoniker": "PhoneApp\\Models\\Repository.cs",
-              "ToolTip": "C:\\Users\\bkesk\\Desktop\\PhoneApp\\Phone\\PhoneApp\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\PROJELER\u0130M\\PhoneApp\\Phone\\PhoneApp\\Models\\Repository.cs",
               "RelativeToolTip": "PhoneApp\\Models\\Repository.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAgwGMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -38,11 +55,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\PhoneApp\\Phone\\PhoneApp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\PROJELER\u0130M\\PhoneApp\\Phone\\PhoneApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PhoneApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\bkesk\\Desktop\\PhoneApp\\Phone\\PhoneApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\PROJELER\u0130M\\PhoneApp\\Phone\\PhoneApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "PhoneApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAJEAAAAAAAAAAADwv6UAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,11 +69,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\PhoneApp\\Phone\\PhoneApp\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\PROJELER\u0130M\\PhoneApp\\Phone\\PhoneApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PhoneApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bkesk\\Desktop\\PhoneApp\\Phone\\PhoneApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\PROJELER\u0130M\\PhoneApp\\Phone\\PhoneApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PhoneApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwDUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-23T16:17:06.052Z",
               "EditorCaption": ""
